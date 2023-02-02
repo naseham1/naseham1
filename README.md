@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+● Upload the link to your GitHub page in the “Featured” section of your Linkedin page. (Click on Featured, the “+” sign, then “add a link”, paste the GitHub account link, complete the details, and “Save”). Share a link to your LinkedIn profile in your Google doc.
+● Add your GitHub link to your personal CV or resume with your other relevant links.
+● Take a screenshot of your change to your CV or resume and paste it into your Google doc.
+
