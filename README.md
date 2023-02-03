@@ -1,5 +1,4 @@
-**Naseha Malik**
-
+<h1> Naseha Malik </h1> 
 <h2> Background and experience </h2> 
 - I am currently completing a 4 month long Software Engineering bootcamp with HyperionDev <br>
 - I am proficient in the programming languages and skills; Python, SQL, Django, HTML, CSS, JavaScript and Bootstrap <br>
